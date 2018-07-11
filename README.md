@@ -14,8 +14,6 @@ Revenue: $25 to $50 Million
 
 Location: New York, New York
 
-Medium: https://medium.com/@kickstarter
-
 Users: > 95% is under the age of 54 years, ~ 30% are ages 25-34
 
 ### *Breaking Down the Competition* 
@@ -47,4 +45,160 @@ Kickstarter's primary audience seems to be the millenial consumer ages 22-37 whi
 For starting a project, it will cost 5% of total funds raised plus 3-5% payment processing fee. These fees are only paid if the project is funded successfully. 
 
 Their copy and imagery is very clean and minimalist which appeals to millenials. Since they focus only on creative projects, they appeal to the more creative and artistic individual. The people they focus on believe that anything is possible and aren't afraid to go for it and try out their ideas, better known entrepreneurs 
+
+The majority of kickstarter users is also said to be male. The website is mostly black and white with the only color coming from the images themselves. The font style also looks be more masculine. 
+
+#### Differentiators 
+
+Kickstarter has found a niche of creative entrepreneurs, in which there are many. While indiegogo seems to be more broad. Kickstarter is very simple compared to the other sites, minimalist in a way. There are a smaller number of categories and you simply decide how much to fund for another project or start your own. While Patreon also appeals to creative people, kickstarter is more focused on funding a single project, idea, or new company. Patreon is more focused on continuued support or showing patronage. 
+
+The ability to save the projects you are interested in is a nice feature on kickstarter. There is an ability to comment, see updates, look at FAQs, see how many are supporting the project, and look at the rewards associated with funding at different levels of cost. It also tells you how much of the goal has been reached and the amount of days left to reach that goal. Overall it is very simple and easy to use. 
+
+Kickstarter is an all or nothing platform in which you have to reach your goal in order to receive funding. This incentivizes others to fund them, but means they lose out on funding if the goal is not reached. 
+
+Kickstarter has a large amount of reward levels or tiers to choose from when funding a project. 
+
+#### Strengths
+
+* Simple and intuitive 
+* Effectively appealing to target audience 
+* Great responsive design
+* Well formatted content
+* Good color scheme contrast
+* Stats for projects funded shows high success rate
+* Large number of tiers to choose from when funding
+
+#### Weaknesses
+
+* Masculine formatting doesn't appeal as much to women
+* No continuued patronage, only specific project funding
+* Less categories to choose from
+* You can't receive funding until your funding goal is reached
+* Lengthier review time when trying to launch a project (2-3 days)
+* Lack of marketing analytics 
+
+#### Opportunities
+
+* Appealing to more women
+* Continuued project support after the first project (sustainable income)
+* Something similar to the Indemand feature on indiegogo for continuued project support once funded
+* Incorporating more categories to include more creative project types
+* Receiving funds before actually reaching the funding goal
+* A more charitable or needs based section similar to gofundme
+* Opening an online store similar to indiegogo for success product creations
+* More analytical tools
+
+
+#### Threats
+
+* Losing customers who want a more patronage type of product
+* Losing out on women users
+* Losing out on users that want gauranteed funding (No all or nothing)
+
+#### User Flow
+
+https://docs.google.com/document/d/1oAjqibJ2RlB19xpdw__1cRXRfTll3oH-BLWgTxLCdWs/edit?usp=sharing
+
+## Company: Indiegogo
+### *Overview* 
+Tagline: "Find it first on Indiegogo"
+
+Launch: January 2008
+
+Funding Raised: $56 million
+
+Employees: 51 to 200
+
+Revenue: > $23 Million
+
+Location: San Francisco, CA
+
+Users: > 95% is under the age of 54 years, ~ 25% are ages 25-34
+
+### *Breaking Down the Competition* 
+
+#### Positioning
+
+"Find it first on Indiegogo". 
+
+Indiegogo is more focused on getting businesses and entrepreneurs started. They actually start staff supporting entrepreneurs once they surpass the $500,000 mark. They are directed towards general entrepreneurs instead of a specified category such as 'creative projects'. 
+
+"Find, fund, and shop the next big thing"
+They have also positioned themselves as a store for purchasing successful products. 
+
+There is a more broad range of categories to choose from ranging in the tech and design industry, the community, and creative work. There is a focus of launching a business in each of these categories.
+
+They have also begun to position themselves as a place to test out new products for existing larger companies such as procter and gamble.
+
+Indiegogo has a quick launch time, without any review time before starting. 
+
+Indiegogo also positions itself as a provider of more marketing analytic information as you fund your project. 
+
+They have also positioned themselves as partners with Gofundme which is more of a personal cause campaign. 
+
+Similar to Kickstarter they have many tiers of options to fund a project or business. 
+
+They also have an equity crowdfunding option for investing instead of a rewards based funding. 
+
+To communicate their products, they have a 'Start a campaign' button which gives you the option of either a Gofundme or to start a project. 
+
+#### Primary Audience
+
+Indiegogo has a similar audience to Kickstarter with around half of their users being millenials. There are more women users at almost an even split with slightly more male users. 
+
+They have more users that are focused on building a business and receiving assistance in doing so. 
+
+They also have users from larger corporations that are testing out their products before launching. 
+
+Their fee structure is 5% of the total raised with a 3% transaction fee. You can either choose to do an all or nothing campaign or choose to receive funds as you go. 
+
+For funding a project you can choose from their many tiers of funding options. 
+
+The use of brighter colors such as pink appeals to more women. There are also many more women appearing on their scrolling images which would appeal to their women users. 
+
+#### Differentiators 
+
+Indiegogo offers many services compared to Kickstarter. There is continuued support for businesses with Indemand, a partnership to gofundme, equity crowdfunding, fixed and flexible funding, a marketplace to buy successful products, and a China Indiegogo.
+
+Indiegogo also appeals to a wider range of users. 
+
+#### Strengths
+
+* Flexible vs fixed funding 
+* Relatively intuitive navigation
+* Great responsive design with a higher amount of mobile users
+* Well formatted content with plenty of help and support
+* Good color scheme contrast 
+* Equity crowdfunding 
+* Product marketplace
+* Partnership with Gofundme
+* More women users
+* Existing business users (procter and gamble, etc.)
+* More categories for projects
+
+
+#### Weaknesses
+
+* With so many options it can be confusing as to which options apply to a new user until you've clicked on it 
+* No continuued patronage, only specific project funding
+* They don't list the percentages of projects funded
+* Less tiers to choose from
+
+
+#### Opportunities
+
+* Clearer distinction for new users (Indemand versus Campaign)
+* More tiers to choose from 
+* How to increase traffic like kickstarter
+* Show their successes with stats
+
+#### Threats
+
+* Losing customers who want a more patronage type of product
+* Losing out on customers who prefer to go with companies displaying their success stats
+
+#### User Flow
+
+
+
 
