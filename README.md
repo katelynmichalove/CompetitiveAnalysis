@@ -1,4 +1,4 @@
-# CompetitiveAnalysis
+# Competitive Analysis
 UX Fundamentals
 ## Company: Kickstarter
 ### *Overview* 
@@ -196,6 +196,81 @@ Indiegogo also appeals to a wider range of users.
 
 * Losing customers who want a more patronage type of product
 * Losing out on customers who prefer to go with companies displaying their success stats
+
+#### User Flow
+
+
+# Competitive Analysis
+UX Fundamentals
+## Company: Patreon
+### *Overview* 
+Tagline: "Creators, come get paid"
+
+Launch: May 2013
+
+Funding Raised: $47 million
+
+Employees: 51 to 200
+
+Location: San Francisco, CA
+
+Users: > 95% is under the age of 54 years, majority in the 22-37 age range
+
+### *Breaking Down the Competition* 
+
+#### Positioning
+
+Patreon has positioned itself as more of a means for creators to make an income doing what they love doing. 
+
+They provide you with analytical tools to grow your business on the site as a creator. 
+
+Patreon also works by utilizing rewards in return for patronage to the creators. Those showing patronage are paying on a subscription basis instead of in a one time payment. This is what allows the creators to have a consistent income as patreon promotes. 
+
+#### Primary Audience
+
+Patreon is aimed at independent creators looking to make a living with what they do. From the video presented on their homepage you can see that they are marketing towards millenials, age range 22-37. 
+
+They offer a similar 5% fee on the money they make with an additional purchasing fee of 5%. 
+The cost for those that are showing patronage is dependent on what reward they are seeking and how much they are willing to pay, starting at one dollar and ranging upwards of $10,000 on a subscription basis. 
+
+Their coloring font styles more neutral than kickstarter and indiegogo, appealing to both genders. Although, they are more focused on supporting creators instead of starting a business. 
+
+#### Differentiators 
+
+Patreon is very unique in its position in crowdfunding. It is more aimed at regular income and supporting creators to do their work. 
+
+There is more of a continuued relationship between the backers and the creators. 
+
+Patreon uses a subscription based system instead of a one time payment. 
+
+
+#### Strengths
+
+* Simple and intuitive 
+* Effectively appealing to target audience 
+* Great responsive design
+* Well formatted content
+* Good color scheme contrast
+* Special niche with providing consistent income
+* Large number of options to show patronage
+* Analytical tools
+
+#### Weaknesses
+
+* Less appeal for those that are more serious about starting a business or launching a product. 
+* No linkage to funding a personal cause
+* No equity funding 
+
+
+
+#### Opportunities
+
+
+
+
+#### Threats
+
+
 
 #### User Flow
 
