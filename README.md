@@ -202,6 +202,8 @@ Indiegogo also appeals to a wider range of users.
 
 #### User Flow
 
+https://docs.google.com/document/d/1oAjqibJ2RlB19xpdw__1cRXRfTll3oH-BLWgTxLCdWs/edit?usp=sharing
+
 ## Company: Patreon
 ### *Overview* 
 Tagline: "Creators, come get paid"
@@ -277,6 +279,7 @@ Patreon uses a subscription based system instead of a one time payment.
 
 #### User Flow
 
+https://docs.google.com/document/d/1oAjqibJ2RlB19xpdw__1cRXRfTll3oH-BLWgTxLCdWs/edit?usp=sharing
 
 
 
