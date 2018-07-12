@@ -22,7 +22,7 @@ Users: > 95% is under the age of 54 years, ~ 30% are ages 25-34
 
 "Bringing creative projects to life". 
 
-Kickstarter is selling creative project funding in many different categories such as publishing, film, design & tech, arts, comics and illustration, games, food & crafts, and music. These are all creative and fun categories. 
+Kickstarter is selling creative project funding in many different categories such as publishing, film, design & tech, arts, comics and illustration, games, food & crafts, and music. These are all creative and artistic categories. 
 
 They present the number of projects already funded and the number of people contributing to the funding process. 
 
@@ -34,29 +34,31 @@ Kickstarter promotes their hand picked selection of projects along with the curr
 
 Kickstarter is for creative projects only. 
 
-Kickstarter communicates their product through examples of other projects they could fund along with their success. The page is full of pictures of the projects with a title to describe it along with the percentage of funding they have achieved. On the homepage it shows projects with well over a 100% funding, promoting the success of their many projects. 
+Kickstarter communicates their product through examples of other projects the user could fund along with its success. The page is full of pictures of the projects with a title to describe it along with the percentage of funding they have achieved. On the homepage it shows projects with well over a 100% funding, promoting the success of their many users. 
 
 If you are interested in starting a project, you can click to start one and they will answer some common questions to show how easy it is to start and maintain a project on their site. Their method of communication is useful and easy to follow. 
 
 #### Primary Audience
 
-Kickstarter's primary audience seems to be the millenial consumer ages 22-37 which is about half of their users. There is a wide range of price offerings for funding a project depending on what the user can afford and is willing to give. Anywhere from $5 to over $10,000. 
+Kickstarter's primary audience seems to be the millenial consumer ages 22-37 which is about half of their user base. There is a wide range of price offerings for funding a project depending on what the user can afford and is willing to give. Anywhere from $5 to over $10,000. 
 
 For starting a project, it will cost 5% of total funds raised plus 3-5% payment processing fee. These fees are only paid if the project is funded successfully. 
 
-Their copy and imagery is very clean and minimalist which appeals to millenials. Since they focus only on creative projects, they appeal to the more creative and artistic individual. The people they focus on believe that anything is possible and aren't afraid to go for it and try out their ideas, better known entrepreneurs 
+Their copy and imagery is very clean and minimalist which appeals to millenials. Since they focus only on creative projects, they appeal to the more creative and artistic individual. The people they focus on believe that anything is possible and aren't afraid to go for it and try out their ideas, better known as entrepreneurs. 
 
 The majority of kickstarter users is also said to be male. The website is mostly black and white with the only color coming from the images themselves. The font style also looks be more masculine. 
 
 #### Differentiators 
 
-Kickstarter has found a niche of creative entrepreneurs, in which there are many. While indiegogo seems to be more broad. Kickstarter is very simple compared to the other sites, minimalist in a way. There are a smaller number of categories and you simply decide how much to fund for another project or start your own. While Patreon also appeals to creative people, kickstarter is more focused on funding a single project, idea, or new company. Patreon is more focused on continuued support or showing patronage. 
+Kickstarter has found a niche of creative entrepreneurs, in which there are many. While indiegogo seems to be more broad. Kickstarter is very simple compared to the other sites, minimalist. There are a smaller number of categories than the other sites and you simply decide how much to fund for another project or start your own. The choices are more limited which gives the site an easy to use feel. While Patreon also appeals to creative people, kickstarter is more focused on funding a single project, idea, or new company. Patreon is more focused on continuued support or showing patronage. Kickstarter is quite literally exactly what the title describes, a kick start for your idea. Once that goal is reached, there is no continuued guidance. 
 
-The ability to save the projects you are interested in is a nice feature on kickstarter. There is an ability to comment, see updates, look at FAQs, see how many are supporting the project, and look at the rewards associated with funding at different levels of cost. It also tells you how much of the goal has been reached and the amount of days left to reach that goal. Overall it is very simple and easy to use. 
+The ability to save the projects you are interested in is a nice feature on kickstarter and is represented on the other sites as well. There is an ability to comment, see updates, look at FAQs, see how many are supporting the project, and look at the rewards associated with funding at different levels of cost. It also tells you how much of the goal has been reached and the amount of days left to reach that goal. Overall it is very simple and easy to use. There is less detail on the main pages which requires the user to click to learn more. I believe this gives a cleaner look than indiegogo, which attaches a description to each project on the main pages. 
+
+The site does not display which users have made contributions which keeps them all anonymous from the public eye, unlike indiegogo in which you must choose to be anonymous. 
 
 Kickstarter is an all or nothing platform in which you have to reach your goal in order to receive funding. This incentivizes others to fund them, but means they lose out on funding if the goal is not reached. 
 
-Kickstarter has a large amount of reward levels or tiers to choose from when funding a project. 
+There is a large amount of reward levels or tiers to choose from when funding a project. 
 
 #### Strengths
 
@@ -72,7 +74,7 @@ Kickstarter has a large amount of reward levels or tiers to choose from when fun
 
 * Masculine formatting doesn't appeal as much to women
 * No continuued patronage, only specific project funding
-* Less categories to choose from
+* Less project categories to choose from
 * You can't receive funding until your funding goal is reached
 * Lengthier review time when trying to launch a project (2-3 days)
 * Lack of marketing analytics 
@@ -83,17 +85,18 @@ Kickstarter has a large amount of reward levels or tiers to choose from when fun
 * Continuued project support after the first project (sustainable income)
 * Something similar to the Indemand feature on indiegogo for continuued project support once funded
 * Incorporating more categories to include more creative project types
-* Receiving funds before actually reaching the funding goal
+* Receiving funds before actually reaching the funding goal (flexible funding)
 * A more charitable or needs based section similar to gofundme
-* Opening an online store similar to indiegogo for success product creations
-* More analytical tools
+* Opening an online store similar to indiegogo for successful product creations
+* Analytical tools
 
 
 #### Threats
 
-* Losing customers who want a more patronage type of product
+* Customers who want a more patronage type of product
 * Losing out on women users
-* Losing out on users that want gauranteed funding (No all or nothing)
+* Users that want gauranteed funding (No all or nothing)
+* Users that want more analytical tools
 
 #### User Flow
 
@@ -128,7 +131,7 @@ They have also positioned themselves as a store for purchasing successful produc
 
 There is a more broad range of categories to choose from ranging in the tech and design industry, the community, and creative work. There is a focus of launching a business in each of these categories.
 
-They have also begun to position themselves as a place to test out new products for existing larger companies such as procter and gamble.
+They have also begun to position themselves as a place to test out new products for existing larger corporations such as Procter and Gamble.
 
 Indiegogo has a quick launch time, without any review time before starting. 
 
@@ -154,7 +157,7 @@ Their fee structure is 5% of the total raised with a 3% transaction fee. You can
 
 For funding a project you can choose from their many tiers of funding options. 
 
-The use of brighter colors such as pink appeals to more women. There are also many more women appearing on their scrolling images which would appeal to their women users. 
+The use of brighter colors such as pink appeals to more women. There are also many more women appearing on their scrolling images which would appeal to their women users as well. 
 
 #### Differentiators 
 
@@ -189,7 +192,7 @@ Indiegogo also appeals to a wider range of users.
 
 * Clearer distinction for new users (Indemand versus Campaign)
 * More tiers to choose from 
-* How to increase traffic like kickstarter
+* How to increase traffic similar to kickstarter
 * Show their successes with stats
 
 #### Threats
@@ -199,9 +202,6 @@ Indiegogo also appeals to a wider range of users.
 
 #### User Flow
 
-
-# Competitive Analysis
-UX Fundamentals
 ## Company: Patreon
 ### *Overview* 
 Tagline: "Creators, come get paid"
@@ -222,9 +222,9 @@ Users: > 95% is under the age of 54 years, majority in the 22-37 age range
 
 Patreon has positioned itself as more of a means for creators to make an income doing what they love doing. 
 
-They provide you with analytical tools to grow your business on the site as a creator. 
+They provide you with analytical tools to grow your personal business on the site as a creator. 
 
-Patreon also works by utilizing rewards in return for patronage to the creators. Those showing patronage are paying on a subscription basis instead of in a one time payment. This is what allows the creators to have a consistent income as patreon promotes. 
+Patreon also works by utilizing rewards in return for patronage to the creators. Those showing patronage are paying on a subscription basis instead of in a one time payment. This is what allows the creators to have a consistent income as patreon promotes in its marketing. 
 
 #### Primary Audience
 
@@ -233,7 +233,9 @@ Patreon is aimed at independent creators looking to make a living with what they
 They offer a similar 5% fee on the money they make with an additional purchasing fee of 5%. 
 The cost for those that are showing patronage is dependent on what reward they are seeking and how much they are willing to pay, starting at one dollar and ranging upwards of $10,000 on a subscription basis. 
 
-Their coloring font styles more neutral than kickstarter and indiegogo, appealing to both genders. Although, they are more focused on supporting creators instead of starting a business. 
+Their coloring and font styles are more neutral than kickstarter and indiegogo, appealing to both genders. 
+
+They are more focused on supporting personal businesses for the creators instead of launching a public business or product. 
 
 #### Differentiators 
 
@@ -257,19 +259,21 @@ Patreon uses a subscription based system instead of a one time payment.
 
 #### Weaknesses
 
-* Less appeal for those that are more serious about starting a business or launching a product 
+* Less appeal for those that are more serious about starting a public business or launching a product outside of the website
 * No linkage to funding a personal cause
 * No equity funding 
 
 
 #### Opportunities
 
-* 
+* Assistance with a business launch outside of maintaining a presence on the site
+* Option to show a one time patronage to the creators instead of subscription base
 
 
 #### Threats
 
-
+* Losing users that wish to launch a business outside of the site
+* Users not wanting to commit to a subscription based funding
 
 #### User Flow
 
