@@ -257,15 +257,14 @@ Patreon uses a subscription based system instead of a one time payment.
 
 #### Weaknesses
 
-* Less appeal for those that are more serious about starting a business or launching a product. 
+* Less appeal for those that are more serious about starting a business or launching a product 
 * No linkage to funding a personal cause
 * No equity funding 
 
 
-
 #### Opportunities
 
-
+* 
 
 
 #### Threats
